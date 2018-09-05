@@ -23,7 +23,7 @@ Vagrant.configure("2") do |config|
 end
 
 def define_machine_name(c, name)
-  c.vm.provider :virtualbox do |vbo|
+  c.vm.provider :virtualbox do |vbox|
     vbox.name = name
   end
-#end
+end
