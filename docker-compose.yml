@@ -1,6 +1,13 @@
 version: "3.0"
 
 services:
+  app:
+    image: python:3.6
+    volumes:
+      - "./:/var/www/html"
+    working_dir: "/var/www/html"
+    tty: true
+    container_name: python
   web: 
     image: "nginx:1.15.0"
     ports:
