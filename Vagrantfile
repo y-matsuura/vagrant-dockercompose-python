@@ -2,7 +2,7 @@ Vagrant.configure("2") do |config|
   
   # VM名
   config.vm.define :www do |c|
-    define_machine_name c, "vagrant_nginx"
+    define_machine_name c, "vagrant_python-flask"
   end
 
   # Ubuntu 18.04 LTS
