@@ -15,4 +15,4 @@ services:
     #links:
     #  - redis
   redis:
-    image: redis:4.0.11
+    image: redis:latest
