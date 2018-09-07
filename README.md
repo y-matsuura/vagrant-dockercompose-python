@@ -16,3 +16,7 @@ https://pleiades.io/help/pycharm/configuring-remote-interpreters-via-virtual-box
 
 [書き方の参考]
 https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa
+
+
+
+https://qiita.com/toritori0318/items/b95f15ba06e7a157abf7
